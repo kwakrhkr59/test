@@ -1,1 +1,2 @@
-코드 없음
+a, b = map(int, input().split())
+print(a+b)
